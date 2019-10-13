@@ -1,0 +1,12 @@
+[submodule "libs/RTClib"]
+	path = libs/RTClib
+	url = https://github.com/adafruit/RTClib.git
+	branch = master
+[submodule "libs/SdFat"]
+	path = libs/SdFat
+	url = https://github.com/greiman/SdFat.git
+	branch = master
+[submodule "libs/TM1637"]
+	path = libs/TM1637
+	url = https://github.com/avishorp/TM1637.git
+	branch = master
